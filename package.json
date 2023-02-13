@@ -1,7 +1,7 @@
 {
-  "name": "react-image-annotation-update",
+  "name": "@ebizeul/react-image-annotation",
   "version": "0.0.1",
-  "description": "react-image-annotation-update React component",
+  "description": "react-image-annotation React component",
   "author": "Ebizeul",
   "main": "lib/index.js",
   "module": "es/index.js",
